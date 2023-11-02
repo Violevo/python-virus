@@ -1,5 +1,3 @@
-
-awsd34e2e23qq
 from pathlib import Path
 import pathlib
 import os
